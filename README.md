@@ -1,2 +1,0 @@
-# WebDavVulnerableList
-Vulnerable WebDav
